@@ -1,16 +1,20 @@
-## Hi there 👋
+# hi! I like building things.
 
-<!--
-**saisha-l/saisha-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎀 about me
+🏔️ &nbsp; computer science @ university of washington  <br />
+💻 &nbsp; incoming SDE intern @ IBM <br />
+💡 &nbsp; passionate about using cs to fix problems across different sectors<br />
+🧠 &nbsp; into neural networks, computer vision, and frontend dev
 
-Here are some ideas to get you started:
+## 📁 fav repos
+| name | description |
+|------|---------------|
+| [`NeuralNetwork`](https://github.com/saisha-l/NeuralNetwork) | experimenting with building neural networks from scratch in c |
+| [`fingerParticles`](https://github.com/saisha-l/fingerParticles) | experimenting with the opencv and pygame libraries |
+| [`mol-frontend`](https://github.com/saisha-l/mol-frontend) | frontend for molecular biochem website |
+| [`articulated-joints-trimesh`](https://github.com/saisha-l/articulated-joints-trimesh) | 3d articulated joint modeling with the trimesh library |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## let's connect
+feel free to copy, fork, and share any of my repos. if my code helps with your own project, a quick credit is always appreciated!
+
+💼 &nbsp; linkedin: [`in/saisha-l`](https://www.linkedin.com/in/saisha-l-5a3153212/)
