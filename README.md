@@ -1,6 +1,6 @@
 # hi! I like building things.
 
-## 🎀 about me
+## about me
 🏔️ &nbsp; computer science @ university of washington  <br />
 💻 &nbsp; SDE intern @ IBM/Hashicorp <br />
 
