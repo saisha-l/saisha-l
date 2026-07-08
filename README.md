@@ -2,9 +2,7 @@
 
 ## 🎀 about me
 🏔️ &nbsp; computer science @ university of washington  <br />
-💻 &nbsp; incoming SDE intern @ IBM <br />
-💡 &nbsp; passionate about using cs to fix problems across different sectors<br />
-🧠 &nbsp; into neural networks, computer vision, and frontend dev
+💻 &nbsp; SDE intern @ IBM/Hashicorp <br />
 
 ## 📁 fav repos
 | name | description |
