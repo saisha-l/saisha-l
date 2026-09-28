@@ -3,6 +3,8 @@
 ## about me
 🏔️ &nbsp; computer science @ university of washington  <br />
 💻 &nbsp; SDE intern @ IBM/Hashicorp <br />
+💻 &nbsp; Intern @ Amazon Alexa <br />
+
 
 ## 📁 fav repos
 | name | description |
