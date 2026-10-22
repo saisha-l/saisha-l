@@ -1,4 +1,3 @@
-# hi! I like building things.
 
 ## about me
 🏔️ &nbsp; computer science @ university of washington  <br />
