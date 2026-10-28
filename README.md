@@ -1,4 +1,4 @@
-<img width="1500" height="400" alt="image" src="https://github.com/user-attachments/assets/e724b3ba-12e9-458f-991e-744fe4667215" />
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/e724b3ba-12e9-458f-991e-744fe4667215" />
 
 ## about me
 🏔️ &nbsp; computer science @ university of washington  <br />
